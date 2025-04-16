@@ -8,15 +8,6 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
 2. Sellers or Merchants manage their own brand component
 3. Admins manage and control the entire store components 
 
-### Features:
-
-  * Node provides the backend environment for this application
-  * Express middleware is used to handle requests, routes
-  * Mongoose schemas to model the application data
-  * React for displaying UI components
-  * Redux to manage application's state
-  * Redux Thunk middleware to handle asynchronous redux actions
-
 ## Demo
 
 This application is deployed on Vercel Please check it out :smile: [here](https://mern-store-gold.vercel.app).
